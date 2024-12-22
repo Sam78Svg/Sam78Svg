@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sam-78-svg
-- 👀 I’m interested in ...Progrmming
-- 🌱 I’m currently learning ...BCA
+- 👀 I love programming
+- 🌱 I’m currently persuing...BCA
 - 💞️ I’m looking to collaborate on ...Web Development
 - 📫 How to reach me ...kendresangamwaman@gmail.com
 - 😄 Pronouns: ...Sam

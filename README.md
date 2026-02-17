@@ -1,100 +1,27 @@
-<div align="center">
-
-<!-- Dynamic Header -->
-
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26height%3D280%26section%3Dheader%26text%3DSangmeshwar%2520Kendre%26fontSize%3D80%26animation%3DfadeIn%26fontAlignY%3D35%26desc%3DJava%2520FullStack%2520Developer%2520%257C%2520Frontend%2520Specialist%26descAlignY%3D55%26descSize%3D25" width="100%"/>
-
-<!-- Typing Effect -->
-
-<a href="https://www.google.com/search?q=https://git.io/typing-svg">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D25%26pause%3D1000%26color%3DF75C7E%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DBuilding%2BEye-Catching%2BWebsites%3BBCA%2BGraduate%2B2025%3BJava%2BFullStack%2BEnthusiast%3BTech%2BLover%2B%25E2%259D%25A4%25EF%25B8%258F" alt="Typing SVG" />
-</a>
-
-<!-- Social Links -->
-
-<a href="https://instagram.com/sangam_kendre78">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Instagram-%2523E4405F.svg%3Fstyle%3Dfor-the-badge%26logo%3DInstagram%26logoColor%3Dwhite" alt="Instagram"/>
-</a>
-<a href="https://www.linkedin.com/in/sangmeshwar-kendre-4919b22b6/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-%25230077B5.svg%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
-</a>
-<a href="https://x.com/Sangam_kendre">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/X-%2523000000.svg%3Fstyle%3Dfor-the-badge%26logo%3DX%26logoColor%3Dwhite" alt="X"/>
-</a>
-<a href="https://youtube.com/@HuSongCreations">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/YouTube-%2523FF0000.svg%3Fstyle%3Dfor-the-badge%26logo%3DYouTube%26logoColor%3Dwhite" alt="YouTube"/>
-</a>
-<a href="mailto:kendresangamwaman@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"/>
-</a>
-
-</div>
-
-💫 About Me
-
-<img align="right" src="https://www.google.com/search?q=https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="180">
-
-🎓 BCA Graduate (2025) from SRTMUN University.
-
-👨‍💻 Currently working on Frontend Technologies and polishing my Java FullStack skills.
-
-🐦‍🔥 Passionate about creating eye-catching, responsive websites.
-
-💡 Always learning and exploring new tech stacks.
-
-🤝 Open to collaborations on web development projects.
-
-🛠️ Tech Stack
-
-<div align="center">
-
-Languages
-
-Frontend
-
-Backend & Database
-
-Tools & Hosting
-
-</div>
-
-📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSam-78-svg%26theme%3Dradical%26hide_border%3Dfalse%26include_all_commits%3Dtrue%26count_private%3Dtrue" height="170" alt="Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DSam-78-svg%26theme%3Dradical%26hide_border%3Dfalse%26include_all_commits%3Dtrue%26count_private%3Dtrue%26layout%3Dcompact" height="170" alt="Languages" />
+# 💫 About Me:
+🙋‍♂️ hi, my my name is Sangmeshwar (Sangam)<br>🧑‍🎓 I'm a MCA student<br>💖 I Love coding so much<br>👷 Mostly work on Full stack and IoT project<br>🏫 Studing in IMCC, Pune<br>🤫 Like to stay quite<br>🎥 Movies are my world<br>
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sangam_kendre78) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sangmeshwar-kendre-4919b22b6/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kendresangamwaman@gmail.com) 
 
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sam78Svg&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sam78Svg&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam78Svg&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sam78Svg&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<img src="https://www.google.com/search?q=https://nirzak-streak-stats.vercel.app/%3Fuser%3DSam-78-svg%26theme%3Dradical%26hide_border%3Dfalse" alt="Streak" />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sam78Svg&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-🏆 Trophies & Contributions
+---
+[![](https://visitcount.itsvg.in/api?id=Sam78Svg&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DSam-78-svg%26theme%3Dradical%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D15" width="100%" />
-
-<img src="https://www.google.com/search?q=https://github-contributor-stats.vercel.app/api%3Fusername%3DSam-78-svg%26limit%3D5%26theme%3Dradical%26combine_all_yearly_contributions%3Dtrue" width="100%" />
-
-</div>
-
-✍️ Random Dev Quote
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://quotes-github-readme.vercel.app/api%3Ftype%3Dhorizontal%26theme%3Dradical" />
-</div>
-
-<div align="center">
-<img src="https://visitcount.itsvg.in/api?id=Sam-78-svg&icon=0&color=12" />
-
-
-
-
-
-<i>Thanks for visiting!</i>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

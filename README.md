@@ -1,15 +1,15 @@
-
 # Hey, I'm Sangmeshwar (Sangam) Kendre 👋
 
 ### MCA Student | Full-Stack Developer | IoT Enthusiast
 
-I enjoy building practical applications, exploring new technologies, and connecting software with the real world.
+I enjoy building practical applications, exploring new technologies, and turning ideas into products that solve real-world problems.
 
 - 🎓 MCA student at IMCC, Pune
-- 💻 Interested in full-stack development, backend engineering, databases, and IoT
-- ☁️ Exploring cloud deployment and scalable applications
-- 🎬 Movie enthusiast who enjoys a quiet life
-- 🤝 Open to collaboration and learning opportunities
+- 💻 Focused on full-stack development, backend engineering, and database design
+- ☁️ Exploring cloud deployment and scalable application architecture
+- 🔧 Interested in IoT systems and connected devices
+- 🎬 Movie enthusiast who values a calm and creative lifestyle
+- 🤝 Open to collaboration, learning opportunities, and meaningful projects
 
 ---
 
@@ -21,10 +21,18 @@ I enjoy building practical applications, exploring new technologies, and connect
 
 ---
 
+## 🚀 What I’m Working On
+
+- Building full-stack web applications with modern JavaScript and backend APIs
+- Learning scalable architecture and production-ready deployment workflows
+- Exploring IoT solutions and embedded integrations
+- Improving problem-solving skills through real projects and hands-on experimentation
+
+---
+
 ## 🛠️ Tech Stack
 
-**Languages**
-
+### Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -32,28 +40,24 @@ I enjoy building practical applications, exploring new technologies, and connect
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Frontend**
-
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
-**Backend**
-
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-**Databases & Services**
-
+### Databases & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
 
-**Tools & Platforms**
-
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
@@ -63,17 +67,25 @@ I enjoy building practical applications, exploring new technologies, and connect
 
 ---
 
-## 🚀 Featured Project
+## 🌟 Featured Projects
 
 ### 🛡️ PhishAware
 
-Explore my project for phishing awareness and web security.
+A practical project focused on phishing awareness and web security.
 
 [![PhishAware](https://github-readme-stats.vercel.app/api/pin/?username=Sam78Svg&repo=PhishAware&theme=tokyonight&hide_border=true)](https://github.com/Sam78Svg/PhishAware)
 
 [**View PhishAware on GitHub →**](https://github.com/Sam78Svg/PhishAware)
 
-[Explore all my repositories →](https://github.com/Sam78Svg?tab=repositories)
+### 📡 ESP8266 AdBlocker
+
+A compact IoT project built with an ESP8266-based device to filter ad and tracking requests at the network level. This project explores embedded networking, DNS-based blocking, and practical home-network protection using a lightweight microcontroller.
+
+- Built on ESP8266 for lightweight network filtering
+- Focused on ad/tracker blocking using DNS-based logic
+- Great for learning embedded systems, networking, and IoT experimentation
+
+[**Explore the ESP8266 AdBlocker project →**](https://github.com/Sam78Svg/ESP8266-AdBlocker)
 
 ---
 
@@ -88,13 +100,14 @@ Explore my project for phishing awareness and web security.
 ---
 
 ## 🏆 GitHub Trophies
+
 <p align="left">
   <img src="https://github-profile-trophies.vercel.app/?username=Sam78Svg&theme=radical&no-frame=false&margin-w=4" />
 </p>
 
 ---
 
-## 💡 Developer Quote
+## 💡 Favorite Quote
 
 ![Developer Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -106,4 +119,6 @@ Explore my project for phishing awareness and web security.
 
 ---
 
-*Building, learning, experimenting — one project at a time. 🚀*
+[Explore all my repositories →](https://github.com/Sam78Svg?tab=repositories)
+
+> Building, learning, and experimenting — one project at a time. 🚀

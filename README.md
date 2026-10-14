@@ -81,11 +81,9 @@ A practical project focused on phishing awareness and web security.
 
 A compact IoT project built with an ESP8266-based device to filter ad and tracking requests at the network level. This project explores embedded networking, DNS-based blocking, and practical home-network protection using a lightweight microcontroller.
 
-- Built on ESP8266 for lightweight network filtering
-- Focused on ad/tracker blocking using DNS-based logic
-- Great for learning embedded systems, networking, and IoT experimentation
+[![AddBlocker Esp8266](https://github-readme-stats.vercel.app/api/pin/?username=Sam78Svg&repo=Esp8266&theme=tokyonight&hide_border=true)](https://github.com/Sam78Svg/Esp8266)
 
-[**Explore the ESP8266 AdBlocker project →**](https://github.com/Sam78Svg/ESP8266-AdBlocker)
+[**Explore the ESP8266 AdBlocker project →**]((https://github.com/Sam78Svg/Esp8266)
 
 ---
 

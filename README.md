@@ -88,7 +88,7 @@ A compact IoT project built with an ESP8266-based device to filter ad and tracki
 
 [![AddBlocker Esp8266](https://github-readme-stats.vercel.app/api/pin/?username=Sam78Svg&repo=Esp8266&theme=tokyonight&hide_border=true)](https://github.com/Sam78Svg/Esp8266)
 
-[**Explore the ESP8266 AdBlocker project →**]((https://github.com/Sam78Svg/Esp8266)
+[**Explore the ESP8266 AdBlocker project →**](https://github.com/Sam78Svg/Esp8266)
 
 ---
 
